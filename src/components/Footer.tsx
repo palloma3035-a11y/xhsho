@@ -90,7 +90,7 @@ export const Footer = () => {
           <div className="pt-8 border-t border-background/10 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-background/50">
             <p>© {currentYear} Xhamia Shqiptare Diaspora e.V. {t('footer.rights')}</p>
             <p className="flex items-center gap-1">
-              {t('footer.madeWith')} <Heart className="w-4 h-4 text-gold" /> {t('footer.forCommunity')}
+              {t('footer.created by enestahiri.com')} <Heart className="w-4 h-4 text-gold" /> {t('footer.')}
             </p>
           </div>
         </div>
