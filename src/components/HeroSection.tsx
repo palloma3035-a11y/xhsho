@@ -73,7 +73,7 @@ export const HeroSection = () => {
         </div>
 
         {/* Scroll Indicator */}
-        <div
+        {/* <div
           className="absolute bottom-12 left-1/2 -translate-x-1/2 animate-bounce"
           style={{ animationDelay: "1s" }}
         >
@@ -83,7 +83,7 @@ export const HeroSection = () => {
           >
             <span className="text-xs uppercase tracking-wider">{t('hero.more')}</span>
             <ChevronDown className="w-5 h-5" />
-          </a>
+          </a> */}
         </div>
       </div>
     </section>
